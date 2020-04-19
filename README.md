@@ -2,6 +2,8 @@
 
 - [x] A* algorithm 2D
 
-- [ ] A* algorithm 3D
+- [x] A* algorithm 3D
+
+- [ ] JPS
 
   
