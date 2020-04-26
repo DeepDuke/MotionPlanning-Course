@@ -17,4 +17,4 @@
 <img src="Astar\ROS\images\euclidean.png" style="zoom:30%;" />
 
 ### RRT  algorithm 2D Result Example
-<img src="RRT\MATLAB\result_path.png" style="zoom:40%;" />
+<img src="RRT\Matlab\result_path.png" style="zoom:40%;" />
